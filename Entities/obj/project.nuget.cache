@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4eqgnzv6+VJTaXM5QiUJQ7E1TSOw/lLU+Ea4HSeXDvHIzN14G/n84jSjJ5TsBXiQF+3gjlb0m8rsEIxo9iMBcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jsalisb1\\OneDrive - Dairy Farmers of America, Inc\\Documents\\repos\\RiskApi\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jsalisb1\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\jsalisb1\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

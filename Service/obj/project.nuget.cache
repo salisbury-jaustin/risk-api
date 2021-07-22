@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kijb2ONKrgPufXjkqFe5Lr0L+9tKFNH+s3rVE+AJ0a+8G0elI/XAw/qukQUP3DRq0Deie538xQX5fx6qbvyzCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jsalisb1\\OneDrive - Dairy Farmers of America, Inc\\Documents\\repos\\RiskApi\\Service\\RiskApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jsalisb1\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\jsalisb1\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512",
+    "C:\\Users\\jsalisb1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jsalisb1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jsalisb1\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\jsalisb1\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\jsalisb1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\jsalisb1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

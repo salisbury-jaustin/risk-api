@@ -1,0 +1,12 @@
+C:\Users\jsalisb1\OneDrive - Dairy Farmers of America, Inc\Documents\repos\RiskApi\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\jsalisb1\OneDrive - Dairy Farmers of America, Inc\Documents\repos\RiskApi\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\jsalisb1\OneDrive - Dairy Farmers of America, Inc\Documents\repos\RiskApi\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\jsalisb1\OneDrive - Dairy Farmers of America, Inc\Documents\repos\RiskApi\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\jsalisb1\OneDrive - Dairy Farmers of America, Inc\Documents\repos\RiskApi\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\jsalisb1\OneDrive - Dairy Farmers of America, Inc\Documents\repos\RiskApi\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsalisb1\OneDrive - Dairy Farmers of America, Inc\Documents\repos\RiskApi\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\jsalisb1\OneDrive - Dairy Farmers of America, Inc\Documents\repos\RiskApi\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\jsalisb1\OneDrive - Dairy Farmers of America, Inc\Documents\repos\RiskApi\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\jsalisb1\OneDrive - Dairy Farmers of America, Inc\Documents\repos\RiskApi\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\jsalisb1\OneDrive - Dairy Farmers of America, Inc\Documents\repos\RiskApi\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\jsalisb1\OneDrive - Dairy Farmers of America, Inc\Documents\repos\RiskApi\Entities\obj\Debug\net5.0\Entities.pdb
